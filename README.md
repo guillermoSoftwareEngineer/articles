@@ -33,7 +33,7 @@ Este proyecto consiste en el diseño y desarrollo de artículos de blog **respon
 
 ## **Enlaces Importantes** 🛠️
 
-- **[LinkedIn](https://www.linkedin.com/feed/)**: Conecta conmigo en mi perfil de LinkedIn.
+- **[LinkedIn](https://www.linkedin.com/in/guillermovasbendev/)**: Conecta conmigo en mi perfil de LinkedIn.
 - **[Portafolio](https://guillermosoftwareengineer.github.io/Portfolio/)**: Descubre mis proyectos y experiencia profesional.
 - **[Repositorio de GitHub](https://github.com/guillermoSoftwareEngineer)**: Revisa el código fuente de este proyecto.
 - **[GitHub Pages](https://guillermosoftwareengineer.github.io/articles/)**: Visualiza el despliegue del proyecto en GitHub Pages.
